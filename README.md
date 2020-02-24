@@ -5,8 +5,8 @@
 
 ## Account Info:
 ### Overleaf and Google:
-ingenuity.senior@gmail.com
-06811@Senior
+Email: ingenuity.senior@gmail.com <br>
+Password: 06811@Senior
 
 ## Resoureces
 ### Tutorials:
